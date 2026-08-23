@@ -137,6 +137,9 @@ Ou clonando o repositório inteiro:
 git clone https://github.com/gabrielkashimarki/humanizer-ptbr.git ~/.claude/skills/humanizer-ptbr
 ```
 
+O `humanizer-ptbr.skill` é o mesmo conteúdo empacotado (zip com `humanizer-ptbr/SKILL.md`
+e o README), para quem instala a skill por arquivo.
+
 ### Claude.ai (Projects)
 1. Crie um novo Project no Claude.ai
 2. Vá em **Project Instructions**
